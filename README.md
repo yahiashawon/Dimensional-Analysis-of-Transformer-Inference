@@ -25,7 +25,7 @@ project-root/
 ├─ pi1_analysis.png              # Additional arithmetic intensity figure
 ├─ paper/                        # (Optional) LaTeX/Word files for the report
 └─ README.md                     # This file
-
+```
 ## 🔑 Key Features
 
 - **Dimensional Scaling Laws:** Derivation of dimensionless groups $\Pi_1$ (Intensity Ratio) and $\Pi_2$ (Dimensionless Load) to predict Transformer performance.

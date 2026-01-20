@@ -92,3 +92,9 @@ We demonstrate that the behavior of the fine-structure constant $\alpha$ under r
    conda activate dim_analysis
    python llm_dimensional_analysis.py
    ```
+### 🙏 Acknowledgments
+Institute of High Energy Physics (IHEP): For providing high-performance GPU resources.
+
+Computing Center, IHEP: For technical support and server infrastructure.
+
+University of Chinese Academy of Sciences (UCAS): For academic guidance.

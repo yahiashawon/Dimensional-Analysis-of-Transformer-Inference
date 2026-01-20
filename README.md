@@ -80,4 +80,8 @@ We demonstrate that the behavior of the fine-structure constant $\alpha$ under r
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/yahiashawon/SimpleTransformer-dm-anlys.git](https://github.com/yahiashawon/SimpleTransformer-dm-anlys.git)
-   cd SimpleTransformer-dm-anlys
+   cd SimpleTransformer-dm-anlysconda create -n dim_analysis python=3.10 -y
+   conda activate dim_analysis
+   conda install pytorch torchvision torchaudio cpuonly -c pytorch -y
+   conda install pandas matplotlib numpy -y
+   ```

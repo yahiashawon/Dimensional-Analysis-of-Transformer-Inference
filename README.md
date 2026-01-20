@@ -92,7 +92,7 @@ We demonstrate that the behavior of the fine-structure constant $\alpha$ under r
    conda activate dim_analysis
    python llm_dimensional_analysis.py
    ```
-   This script will:Initialize a 71M parameter SimpleTransformer.Run the Dimensionless Profiling Protocol across a logarithmic grid of Batch Sizes and Sequence Lengths.Calculate $\Pi_1$ and $\Pi_2$ for every data point.Generate llm_inference_results.csv, results_figure.png, and pi1_analysis.png
+   This script will: Initialize a 71M parameter SimpleTransformer. Run the Dimensionless Profiling Protocol across a logarithmic grid of Batch Sizes and Sequence Lengths. Calculate $\Pi_1$ and $\Pi_2$ for every data point.Generate llm_inference_results.csv, results_figure.png, and pi1_analysis.png.
 
 
    

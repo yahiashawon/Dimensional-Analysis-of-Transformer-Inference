@@ -23,7 +23,6 @@ project-root/
 ├─ llm_inference_results.csv     # Generated measurements
 ├─ results_figure.png            # Main 3-panel figure (latency, throughput, collapse)
 ├─ pi1_analysis.png              # Additional arithmetic intensity figure
-├─ paper/                        # (Optional) LaTeX/Word files for the report
 └─ README.md                     # This file
 ```
 ## 🔑 Key Features
